@@ -1,3 +1,7 @@
+---
+id: test
+title: okay testing this
+---
 
 ## Quick start
 
